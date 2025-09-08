@@ -54,3 +54,7 @@ Realiza:
   - `catl_` → categóricas (baixa cardinalidade)  
   - `cath_` → categóricas (alta cardinalidade)  
   - `ord_` → ordinais
+
+
+  Link para o dataset PNS 2019: https://www.pns.icict.fiocruz.br/bases-de-dados/ baixar base de dados Fiocruz 2019.
+
