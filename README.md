@@ -76,6 +76,6 @@ O objetivo é comparar diferentes modelos de IA quanto ao desempenho preditivo e
 
 Este projeto é de uso acadêmico e pode ser reutilizado para fins educacionais, desde que citada a fonte:
 
-> **Autor:** Seu Nome Completo  
-> **Trabalho de Conclusão de Curso - [Nome da Instituição] (2025)**  
+> **Autor:** Henrique Ferrari Wommer
+> **Trabalho de Conclusão de Curso -ATITUS-2025**  
 > Tema: *Predição de Asma com Inteligência Artificial e Aprendizado de Máquina*  
